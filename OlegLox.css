@@ -1,0 +1,44 @@
+body{
+	background-color: hotpink;
+}
+header{
+	list-style: none;
+	display: flex;
+	background-color: #8A2BE2;
+	padding: 15px;
+	border-radius: 25px;
+}
+header ul{
+	list-style: none;
+	display: flex;
+}
+header ul li{
+	margin-right: 100px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+	/*font-family: cursive;*/
+	font-family: 'Satisfy', cursive;
+}
+.Die{
+	margin: 0 auto;
+	box-shadow: 30px 20px 30px 3px black;
+	border-radius: 15px;
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.WakeUp{
+	display: flex;
+}
+footer{
+	/*display: flex;*/
+	padding: 20px;
+	background-color: grey;
+	text-align: center;
+	font-family: 'Kirang Haerang', cursive;
+}
+h2{
+	text-shadow: 3px 3px 3px grey;
+}
